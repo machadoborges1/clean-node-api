@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "jest": "^29.7.0",
     "lint-staged": "^15.0.2",
     "standard": "^17.1.0"
   }
